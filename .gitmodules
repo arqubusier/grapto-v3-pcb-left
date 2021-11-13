@@ -1,0 +1,3 @@
+[submodule "grapto-v3-schematic"]
+	path = grapto-v3-schematic
+	url = git@github.com:arqubusier/grapto-v3-schematic.git

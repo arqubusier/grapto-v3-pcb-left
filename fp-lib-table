@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name grapto-v3-schematic)(type KiCad)(uri ${KIPRJMOD}/grapto-v3-schematic/grapto-v3-schematic.pretty)(options "")(descr ""))
+  (lib (name kaihl_choc)(type KiCad)(uri ${KIPRJMOD}/keyswitch-kicad-library/modules/Switch_Keyboard_Kailh.pretty)(options "")(descr ""))
+)
